@@ -1,0 +1,28 @@
+
+@import './mail-list.css';
+@import './mail-detail.css';
+@import './user-msg.css';
+@import './add-mail.css';
+@import './nav-mail.css';
+
+* {
+    box-sizing: border-box;
+}
+
+
+html {
+   
+    color: #2b2b2b;
+    /* text-align: center; */
+}
+
+body {
+    /* margin: 0; */
+    /* background-color: rgb(192, 223, 250); */
+    
+}
+
+
+.card{
+    display: flex;
+}

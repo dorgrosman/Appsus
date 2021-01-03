@@ -1,0 +1,24 @@
+
+
+.footer-container {
+   
+    background-color: #99C1DE;
+    background-image: url('../js/asset/img/background2.jpeg');
+    background-position: center;
+    color: #ffffff;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 50px;
+    width: 100%;
+   
+}
+
+
+
+.footer-text {
+    text-align: center;
+    color: #2b2b2b;
+    font-size: 20px;
+    font-family: Caveat;
+}
